@@ -53,9 +53,7 @@ Contributions are welcome! Feel free to submit pull requests and report issues.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
---
-
-## WiPass Explorer CLI
+# WiPass Explorer CLI
 
 WiPass Explorer CLI is a command-line interface (CLI) tool that provides similar functionality to the graphical WiPass Explorer but in a text-based format.
 
