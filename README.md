@@ -1,11 +1,11 @@
 # WiPass Explorer
 
-WiPass Explorer is a graphical tool for displaying and managing your Wi-Fi profiles and their passwords on your system. Built using `PySide6`, this tool allows you to view saved Wi-Fi profiles, copy their passwords to the clipboard, and save the information to a file.
+WiPass Explorer is a graphical tool for managing Wi-Fi profiles and their passwords on your system. This application, built using `PySide6`, enables you to view saved Wi-Fi profiles, copy their passwords to the clipboard, and save the information to a file.
 
 ## Features
 
 - Display saved Wi-Fi profiles
-- Show passwords for the Wi-Fi profiles
+- Show passwords for Wi-Fi profiles
 - Copy passwords to the clipboard with a double-click
 - Save profile and password information to a text file
 
@@ -16,15 +16,15 @@ WiPass Explorer is a graphical tool for displaying and managing your Wi-Fi profi
 
 ## Installation
 
-Install the required dependencies using the following command:
+To install the required dependencies, use the following command:
 
 ```sh
 pip install PySide6
 ```
 
-Usage
+## Usage
 Download or clone the project code.
-Place an icon file named icon.png in the project directory or specify your desired icon path in the code.
+Place an icon file named icon.png in the project directory, or specify your desired icon path in the code.
 Run the WiPass_Explorer.py file:
 sh
 Copy code
@@ -36,8 +36,8 @@ Click the "Save to File" button to save the profile and password information to 
 Security
 Please note that this tool reveals Wi-Fi passwords, and it should be used with caution. Running this tool may require administrative privileges.
 
-Contributing
+## Contributing
 Contributions are welcome! Feel free to submit pull requests and report issues.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
