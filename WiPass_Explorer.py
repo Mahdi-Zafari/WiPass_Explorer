@@ -1,3 +1,7 @@
+####################################
+# ~~~ Created by: Mahdi Zafari ~~~ #
+####################################
+
 import subprocess
 import re
 import sys
@@ -25,7 +29,7 @@ class WiPassExplorer(QWidget):
         super().__init__()
         self.setWindowTitle("WiPass Explorer")
         self.setGeometry(300, 300, 600, 400)
-        # self.setWindowIcon(QIcon("icon.png"))
+        self.setWindowIcon(QIcon("icon.png"))
 
         layout = QVBoxLayout()
 
