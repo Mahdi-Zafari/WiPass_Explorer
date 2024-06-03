@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover any security issues or vulnerabilities in this project, please let us know by sending an email to [security@example.com](mailto:security@example.com). We appreciate your help in disclosing any potential security concerns responsibly.
+If you discover any security issues or vulnerabilities in this project, please let us know by sending an email to [zafarim880@gmail.com](mailto:zafarim880@gmail.com). We appreciate your help in disclosing any potential security concerns responsibly.
 
 Please include the following details in your report:
 - Description of the vulnerability
