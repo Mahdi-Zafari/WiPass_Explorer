@@ -2,6 +2,10 @@
 
 WiPass Explorer is a graphical tool for managing Wi-Fi profiles and their passwords on your system. This application, built using `PySide6`, enables you to view saved Wi-Fi profiles, copy their passwords to the clipboard, and save the information to a file.
 
+## Version
+
+WiPass Explorer v1.0
+
 ## Features
 
 - Display saved Wi-Fi profiles
